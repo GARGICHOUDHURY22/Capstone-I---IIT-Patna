@@ -15,3 +15,6 @@ Train a Logistic Regression classifier for binary prediction (phishing vs. legit
 Evaluate performance using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
 
 Generate automated sample datasets for demonstration and validation.
+
+
+NOTE : “All rights reserved. Code and content are provided for research and academic demonstration only. Reuse requires written permission.”
