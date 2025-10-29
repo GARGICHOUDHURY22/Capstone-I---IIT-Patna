@@ -1,0 +1,17 @@
+Overview
+
+This repository contains a Natural Language Processing (NLP) based system for detecting phishing emails using TF-IDF feature extraction and Logistic Regression classification.
+The project demonstrates how mathematical modeling and text analytics can be combined to automate phishing detection efficiently.
+Developed as part of a Cybersecurity Capstone Project, this research aims to advance AI-driven threat intelligence and provide a transparent, reproducible foundation for future academic work.
+
+Objectives
+
+Detect phishing emails using text-based analysis instead of rule-based filtering.
+
+Apply TF-IDF vectorization to represent textual data numerically.
+
+Train a Logistic Regression classifier for binary prediction (phishing vs. legitimate).
+
+Evaluate performance using accuracy, precision, recall, F1-score, and ROC-AUC metrics.
+
+Generate automated sample datasets for demonstration and validation.
