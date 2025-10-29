@@ -4,6 +4,11 @@ This repository contains a Natural Language Processing (NLP) based system for de
 The project demonstrates how mathematical modeling and text analytics can be combined to automate phishing detection efficiently.
 Developed as part of a Cybersecurity Capstone Project, this research aims to advance AI-driven threat intelligence and provide a transparent, reproducible foundation for future academic work.
 
+Problem Statement
+
+Phishing emails remain one of the most common and damaging forms of cyberattacks.
+The challenge lies in designing a data-driven, interpretable, and efficient model that can differentiate between phishing and legitimate emails based on text content.
+
 Objectives
 
 Detect phishing emails using text-based analysis instead of rule-based filtering.
