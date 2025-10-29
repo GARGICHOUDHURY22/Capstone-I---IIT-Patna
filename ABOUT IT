@@ -28,7 +28,7 @@ Model: Logistic Regression + TF-IDF Vectorizer
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score
 
-Example OF accuracy in output:
+Example of accuracy in output found:
 
 Accuracy: 97.3%
 Precision: 96.8%
