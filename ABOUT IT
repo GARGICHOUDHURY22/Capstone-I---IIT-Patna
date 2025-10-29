@@ -16,5 +16,24 @@ Evaluate performance using accuracy, precision, recall, F1-score, and ROC-AUC me
 
 Generate automated sample datasets for demonstration and validation.
 
+Implementation :
+
+Language: Python
+
+Libraries: scikit-learn, pandas, numpy, matplotlib
+
+Dataset: Publicly available phishing and legitimate email corpus
+
+Model: Logistic Regression + TF-IDF Vectorizer
+
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score
+
+Example OF accuracy in output:
+
+Accuracy: 97.3%
+Precision: 96.8%
+Recall: 97.6%
+F1-Score: 97.2%
+
 
 NOTE : “All rights reserved. Code and content are provided for research and academic demonstration only. Reuse requires written permission.”
