@@ -1,7 +1,7 @@
 # ============================================================
 # Phishing Email Detection using NLP + URL Features
 # Author: Gargi Choudhury
-# Institution: Southern New Hampshire University
+# Institution: Southern New Hampshire University | IIT, PATNA
 # License: Apache 2.0
 # ============================================================
 
